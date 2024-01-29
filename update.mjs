@@ -255,7 +255,7 @@ readme = addTitleCaseVariants(readme)
 readme = addLowerCaseVariants(readme)
 
 const cargo = [
-  'cargo.lock',
+  'Cargo.lock',
   'rust-toolchain.toml',
   'rustfmt.toml',
   '.rustfmt.toml',
